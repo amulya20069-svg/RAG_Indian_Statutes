@@ -1,21 +1,6 @@
 # RAG-based Question Answering over Indian Legal Data
-
-**Course:** CS5202 - Generative AI & LLMs  
-**Team:** 12  
 **Deployed App:** [https://ragindianstatutes-qbeqfy4786mr8b3bh5ght2.streamlit.app/](https://ragindianstatutes-qbeqfy4786mr8b3bh5ght2.streamlit.app/)  
 **GitHub:** [https://github.com/hanshikaravipati-lgtm/RAG_Indian_Statutes](https://github.com/hanshikaravipati-lgtm/RAG_Indian_Statutes)
-
----
-
-## Team Members
-
-| Roll Number | Name |
-|-------------|------|
-| SE23UCSE129 | Nossam Nithin Reddy |
-| SE23UCSE130 | Amulya Oruganti |
-| SE23UCSE152 | Hanshika Ravipati |
-| SE23UCSE156 | Sanikommu Vaishnavi Reddy |
-| SE23UARI068 | Venkata Subba Rao |
 
 ---
 
